@@ -1,7 +1,7 @@
 # Calculator App
 
-Compatible OS - Android/ios
-Language - Dart
+Compatible OS - Android/ios </br>
+Language - Dart </br>
 Framework - Flutter
 
 
