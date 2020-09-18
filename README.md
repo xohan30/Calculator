@@ -4,4 +4,4 @@
  > Language - Dart </br>
  > Framework - Flutter
 
-*Words by me*
+*My first ever build flutter application*👾
