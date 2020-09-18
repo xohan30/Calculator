@@ -1,3 +1,7 @@
-# Calculator
+# Calculator App
 
-A Simple Calculator app build in Flutter for android device
+Compatible OS - Android/ios
+Language - Dart
+Framework - Flutter
+
+
